@@ -1,7 +1,7 @@
 # is384-scrum-task-app-csn-03
 assignment
 
-
+contributor:Nasma
 
 updated README section
 
