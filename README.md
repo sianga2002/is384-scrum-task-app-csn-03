@@ -1,6 +1,14 @@
 # is384-scrum-task-app-csn-03
 assignment
 
+feature/30895/T.2023-2
+contributor:Nasma
+
+updated README section
+
+
+contributor: Nasma- CSN 30895/T.2023
+
 #Group Members
 
 - Nasma Musta Juma-30895/T.2023
@@ -15,4 +23,4 @@ assignment
 
 
 Contributor:Nasma-30895/T.2023
-
+Note: Group meeting every Monday
