@@ -23,4 +23,5 @@ contributor: Nasma- CSN 30895/T.2023
 
 
 Contributor:Nasma-30895/T.2023
-Note: Group meeting every Monday
+Note: Group should meet every Monday for group discussion
+
