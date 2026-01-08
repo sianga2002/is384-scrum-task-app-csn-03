@@ -8,7 +8,7 @@ Sprint plan
 2. sprint goal
 -The goal of this sprint is to build core features of the task management app, allowing users to create, assign, and tracks task efficiently.
 
-3. Definition of Done (DOD)
+3. Definition of Done (DoD)
 -Code is written and pushedto Github
 -Changes are reviewed and approved via pull request
 -Features work as expected
