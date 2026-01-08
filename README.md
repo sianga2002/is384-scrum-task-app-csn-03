@@ -12,7 +12,7 @@ contributor: Nasma- CSN 30895/T.2023
 #Group Members
 
 - Nasma Mustafa Juma-30895/T.2023
-- Baraka F Didas-31475/T.2023
+- Baraka Fortunatus  Didas-31475/T.2023
 - Sina Ngusa Kishosha-32137/T.2023
 - Jeniwitness J Sianga-31535/T.2023
 - Nasr Hassan Mpalang'ombe-30326/T.2023
