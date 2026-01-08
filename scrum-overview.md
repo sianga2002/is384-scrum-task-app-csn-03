@@ -3,8 +3,7 @@
 ## 1. Scrum Roles
 
 - Product Owner: Sina ngusa  define product requirements and periorities
-- Scrum Master:patricia makaya   Facilitates Scrum process and removes obstacles.
-
+- Scrum Master:patricia makaya   Facilitates Scrum process and removes obstacles. This includes organizing Scrum events, ensuring adherence to Scrum principles, and supporting team collaboration.
 ## 2. Scrum Events
 
 ### Sprint Planning
