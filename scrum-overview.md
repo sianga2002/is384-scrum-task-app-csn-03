@@ -4,6 +4,7 @@
 
 - Product Owner: Sina ngusa  define product requirements and periorities
 - Scrum Master:patricia makaya   Facilitates Scrum process and removes obstacles. This includes organizing Scrum events, ensuring adherence to Scrum principles, and supporting team collaboration.
+- Developer 1: Jestarine Freeman 30364/T.2023
 ## 2. Scrum Events
 
 ### Sprint Planning
